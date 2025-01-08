@@ -35,25 +35,25 @@
 ## 🎨 Prévia da Aplicação  
 
 ### Ecrã de Boas-Vindas  
-![image](https://github.com/user-attachments/assets/ce5fba3c-694c-43fc-b682-12b04a0289c3)  
-
+![image](https://github.com/user-attachments/assets/160ca8fa-e103-4df1-b814-428cc978f2ec)
+ 
 ### Ecrã de Login  
-![image](https://github.com/user-attachments/assets/f7b6029d-dc00-4adc-ae5c-a3a381595667)  
+![image](https://github.com/user-attachments/assets/0b09f464-a75d-4409-8771-78ea89549651)
 
 ### Ecrã de Registo  
-![image](https://github.com/user-attachments/assets/564bb7cc-d017-4105-907c-e151cb633f57)  
+![image](https://github.com/user-attachments/assets/ba5dd82c-f324-4f8f-a5fd-6568bcf61f51)
 
 ### Ecrã de Recuperação de Palavra-Passe  
-![image](https://github.com/user-attachments/assets/5ddf4696-169f-4bcc-8837-fc195b882f86)  
+![image](https://github.com/user-attachments/assets/c3cd6ea1-de98-48f9-941e-d3cc8f359e7a)
 
 ### Ecrã Principal  
-![image](https://github.com/user-attachments/assets/1a113176-12e4-47b2-a4bb-84648ad79076)  
-
+![image](https://github.com/user-attachments/assets/94e4c7de-815e-458b-8dd3-f44dbc8dd2e5)
+ 
 ### Ecrã de Detalhes do Filme  
-![image](https://github.com/user-attachments/assets/94d6b14f-6919-4754-a484-de22107dc041)  
+![image](https://github.com/user-attachments/assets/a5d2a0e7-7bd4-42ca-99f8-0fcc3eed260d)
 
 ### Ecrã de Perfil  
-![image](https://github.com/user-attachments/assets/8d03bf68-d7e8-4020-a7eb-3c27b26dbf7c)  
+![image](https://github.com/user-attachments/assets/8d8aa7f9-d861-4077-a4af-24d20b287914)
 
 
 ## 📧 Contacto
